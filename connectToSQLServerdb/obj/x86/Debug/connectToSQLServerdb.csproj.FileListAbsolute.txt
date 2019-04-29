@@ -1,0 +1,11 @@
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\bin\Debug\connectToSQLServerdb.exe
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\bin\Debug\connectToSQLServerdb.pdb
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\obj\x86\Debug\connectToSQLServerdb.Form1.resources
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\obj\x86\Debug\connectToSQLServerdb.Properties.Resources.resources
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\obj\x86\Debug\connectToSQLServerdb.exe
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\obj\x86\Debug\connectToSQLServerdb.pdb
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\bin\Debug\stAppdb.sdf
+c:\users\keka\documents\visual studio 2010\Projects\connectToSQLServerdb\connectToSQLServerdb\bin\Debug\connectToSQLServerdb.exe.config
